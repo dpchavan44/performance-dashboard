@@ -19,7 +19,7 @@ This project is a Performance Dashboard App built with React and Express. It pro
 
 ### Installation
 1. Clone the repository:
-    git clone https://github.com/your-repo/performance-dashboard.git
+    git clone [https://github.com/your-repo/performance-dashboard.git](https://github.com/dpchavan44/performance-dashboard.git)
     cd performance-dashboard
 
 2. Install the dependencies:
