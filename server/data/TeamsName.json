@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Avengers",
+    "icon": "Avengers"
+  },
+  { "name": "Champions", 
+    "icon": "Champions" 
+  },
+  { 
+    "name": "Defenders", 
+    "icon": "Defenders" 
+  },
+  { 
+    "name": "Eternals", 
+    "icon": "Eternals" 
+  },
+  { 
+    "name": "Guardians", 
+    "icon": "Guardians" 
+  },
+  { 
+    "name": "Marvels", 
+    "icon": "Marvels" 
+  },
+  { 
+    "name": "Thunderbolts", 
+    "icon": "Thunderbolts" 
+  },
+  { 
+    "name": "Titans", 
+    "icon": "Titans" 
+  }
+]

@@ -1,0 +1,6 @@
+install one by one all modules
+
+pip install openpyxl==2.5.14
+pip install lxml==4.3.0
+Pip install xlrd==1.2.0
+Pip install xlwt==1.3.0
